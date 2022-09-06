@@ -18,3 +18,6 @@ Now, we learn about git and to connect it to our github.
 
 - Two Way Merge
   ![Two Way Merge](img/graph.png)
+
+- Process to Three Way Merge
+  ![Process to Three Way Merge](img/proses%20graph.png)
