@@ -1,6 +1,6 @@
 # **LEARN ABOUT GIT**
 
-Hello...
+Hello... :)
 Now, we learn about git and to connect it to our github.
 
 ## **Our Team:**
