@@ -1,7 +1,7 @@
 # **LEARN ABOUT GIT**
 
 Hello... :)
-Now, we learn about git and to connect it to our github.
+Now, we learn about git and to connect it to our github. Asik
 
 ## **Our Team:**
 
